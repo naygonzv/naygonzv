@@ -1,7 +1,7 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" "https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
-  <source media="(prefers-color-scheme: light)" "https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
+  <source media="(prefers-color-scheme: light)" src=set"https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
   <img alt="Banner de perfil" src="./banner-claro.png" width="100%">
 </picture>
 
