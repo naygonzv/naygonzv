@@ -1,5 +1,9 @@
 <img width="4544" height="928" alt="banner" src="https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" "https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
+  <source media="(prefers-color-scheme: light)" "https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
+  <img alt="Banner de perfil" src="./banner-claro.png" width="100%">
+</picture>
 ## Hi there!
 
 <!--
