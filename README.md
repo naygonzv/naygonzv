@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="4544" height="928" alt="banner" src="https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" />
+
+## Hi there!
 
 <!--
 **naygonzv/naygonzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
