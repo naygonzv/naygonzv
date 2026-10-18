@@ -19,7 +19,7 @@ Currently expanding my skills, working on projects and growing as a developer.
 
 
   <b> > Let's connect!</b><br>
-  > Feel free to reach out or explore my work.</sub>
+  > Feel free to reach out or explore my work.
   <a href="https://www.linkedin.com/in/nayeli-gonzalez-bngv/?locale=en-US">
     <img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
