@@ -24,7 +24,7 @@ Currently expanding my skills, working on projects and growing as a developer.
     <img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto: bnayeligonzalezv@gmail.com">
+  <a href="mailto:bnayeligonzalezv@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
