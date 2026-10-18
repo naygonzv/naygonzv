@@ -1,7 +1,8 @@
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c17dc902-2c8b-49f5-9b28-bf8d7dee476c" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c17dc902-2c8b-49f5-9b28-bf8d7dee476c" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2326ede9-c804-493c-8c36-1b0c2d2c4987" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2326ede9-c804-493c-8c36-1b0c2d2c4987" />
   <img alt="Banner de perfil" src="https://github.com/user-attachments/assets/50625414-226d-496a-8298-f5913c0dc9ff" width="100%" />
 </picture>
 
@@ -88,5 +89,5 @@ Currently expanding my skills, working on projects and growing as a developer.
 
 
 <div align="center">
-  <img alt="Cascada" src="https://github.com/user-attachments/assets/ce7a6f3b-6518-46da-ae39-d5ae6dc5aeac" width="100%" />
+  <img alt="Cascada" src="https://github.com/user-attachments/assets/c6f202be-10f7-4f66-b768-0e367e2da262" width="100%" />
 </div>
