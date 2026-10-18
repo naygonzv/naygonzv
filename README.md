@@ -28,7 +28,7 @@ Currently expanding my skills, working on projects and growing as a developer.
     <img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/naygonzv?tab=repositories">
+  <a href="https://github.com/naygonzv?tab=repositories"](https://github.com/naygonzv?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 
